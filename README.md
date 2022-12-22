@@ -31,10 +31,10 @@ Below is the list of projects shared in my repos and short descriptions.
 
 - [FCL Vanilla](https://github.com/bluesign/fcl-vanilla) - Vanilla JS & CDN compatible FCL PoC
 
+- [Dev Wallet Static](https://github.com/bluesign/dev-wallet-static) - Static compiled dev-wallet [outdated]
+
 
 ### Hack 
-
-- [Dev Wallet Static](https://github.com/bluesign/dev-wallet-static) - Static compiled dev-wallet [outdated]
 
 - [Fake Badger](https://github.com/bluesign/fakeBadger) Badger Api compatible empty package ( required when compiling emulator to wasm ) 
 
