@@ -1,4 +1,4 @@
-# awesome-nostr
+# hey there 
 
 Below is the list of projects shared in my repos and short descriptions. 
 
