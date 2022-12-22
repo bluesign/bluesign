@@ -14,7 +14,11 @@ Below is the list of projects shared in my repos and short descriptions.
 
 - [Flow Event Dumper](https://github.com/bluesign/Flow-EventDumper) - Dump events from protocol state snapshots 
 
+- [Flow State Follower](https://github.com/bluesign/Flow-StateFollower) - Dump events from state updates 
+
 - [Flow Emulator WASM](https://github.com/bluesign/emulatorWasm) - Flow Emulator compiled to wasm ( with JS interface instead of HTTP ) 
+
+- [Checkpoint importer](https://github.com/bluesign/checkpointState) - Imports state from root.checkpoint file of spork 
 
 
 ### PoC
@@ -23,7 +27,14 @@ Below is the list of projects shared in my repos and short descriptions.
 
 - [Metadata Alternative to Alchemy API](https://github.com/bluesign/metaWrapper) - Proof of concept metadata provider.
 
+- [Flow Multisign Vote](https://github.com/bluesign/flow-multisign-vote) - Minimal DAO implemented with some cadence hacks 
+
+- [FCL Vanilla](https://github.com/bluesign/fcl-vanilla) - Vanilla JS & CDN compatible FCL PoC
+
+
 ### Hack 
+
+- [Dev Wallet Static](https://github.com/bluesign/dev-wallet-static) - Static compiled dev-wallet [outdated]
 
 - [Fake Badger](https://github.com/bluesign/fakeBadger) Badger Api compatible empty package ( required when compiling emulator to wasm ) 
 
