@@ -8,7 +8,7 @@ Below is the list of projects shared in my repos and short descriptions.
 
 - [f.dnz.dev Flow View Source Fork](https://github.com/bluesign/flow-view-source) - Flow-View-Source fork with added new features like storage browser, address auto detection etc. 
 
-- [run.dnz.dev Flow Runner] (https://github.com/bluesign/runnerDnzDev) - Source of https://run.dnz.dev A tool to run script and transactions on Flow.
+- [run.dnz.dev Flow Runner](https://github.com/bluesign/runnerDnzDev) - Source of https://run.dnz.dev A tool to run script and transactions on Flow.
   
 - [Flow mainnet contracts](https://github.com/bluesign/mainnet-contracts) - Some snapshot of flow-mainnet-contracts, and automatically upgraded to Cadence 1.0 version 
 
