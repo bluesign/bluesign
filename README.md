@@ -4,9 +4,16 @@ Below is the list of projects shared in my repos and short descriptions.
 
 ## Flow
 
-### Complete 
+### Active 
 
 - [f.dnz.dev Flow View Source Fork](https://github.com/bluesign/flow-view-source) - Flow-View-Source fork with added new features like storage browser, address auto detection etc. 
+
+- [Flow mainnet contracts](https://github.com/bluesign/mainnet-contracts) - Some snapshot of flow-mainnet-contracts, and automatically upgraded to Cadence 1.0 version 
+
+
+
+### Complete 
+
 
 - [webasembly based flow playground](https://github.com/bluesign/wasmPlayground) - Flow playground in your browser with webassembly ( without any backend ) 
 
@@ -22,7 +29,6 @@ Below is the list of projects shared in my repos and short descriptions.
 
 - [Cadence tree-sitter parser](https://github.com/bluesign/cadence-tree-sitter) - Treesitter parser for Cadence 
 
-- [Flow mainnet contracts](https://github.com/bluesign/mainnet-contracts) - Some snapshot of flow-mainnet-contracts, and automatically upgraded to Cadence 1.0 version 
 
 ### PoC
 
