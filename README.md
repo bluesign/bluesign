@@ -16,6 +16,11 @@ Below is the list of projects shared in my repos and short descriptions.
 
 - [cdcq - A Cadence AST Query Tool](https://github.com/bluesign/cdcq) - Something like jg but for Cadence ast parsing. ( best used with `Flow mainnet contracts` snapshot )
 
+- [A Flow Hardware wallet](https://github.com/bluesign/tinyWallet) - First attempt at hardware wallet with ledger compatible interface. ( spoiler, picoWallet is in works.. )
+
+- [tinyAN - Flow Access node for All](https://github.com/bluesign/tinyAN) - Run your access node with limited resources, query scripts on any block, remove limits. ( just couple of hundred lines of code ) ( spoiler: coming soon indexing/searching of data ) 
+
+
 
 ### Complete 
 
