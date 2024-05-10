@@ -20,6 +20,10 @@ Below is the list of projects shared in my repos and short descriptions.
 
 - [tinyAN - Flow Access node for All](https://github.com/bluesign/tinyAN) - Run your access node with limited resources, query scripts on any block, remove limits. ( just couple of hundred lines of code ) ( spoiler: coming soon indexing/searching of data ) 
 
+- [cadenceFmt - A Cadence code formatter](https://github.com/bluesign/cadencefmt) - Format your cadence code
+
+- [notebook for Cadence](https://github.com/bluesign/Notebook) - Something like jupyter for Cadence. ( with mainnet/testnet access )
+
 
 
 ### Complete 
