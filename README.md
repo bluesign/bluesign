@@ -1,6 +1,6 @@
 # hey there 
 
-Below is the list of projects shared in my repos and short descriptions. 
+Below is the list of projects I shared in my repos and short descriptions. 
 
 ## Flow
 
