@@ -22,7 +22,7 @@ Below is the list of projects shared in my repos and short descriptions.
 
 - [Cadence tree-sitter parser](https://github.com/bluesign/cadence-tree-sitter) - Treesitter parser for Cadence 
 
-- [Flow mainnet contracts](https://github.com/bluesign/flow-mainnet-contracts) - Some snapshot of flow-mainnet-contracts, idea was to keep a git history repo of all contracts with all update and changes. [ not live updated ]
+- [Flow mainnet contracts](https://github.com/bluesign/mainnet-contracts) - Some snapshot of flow-mainnet-contracts, and automatically upgraded to Cadence 1.0 version 
 
 ### PoC
 
